@@ -28,7 +28,7 @@
 }
 
 html {
-    font-size: 45%;
+    font-size: 42%;
     overflow-x: hidden;
     scroll-padding-top: 9rem;
     scroll-behavior: smooth;
@@ -588,10 +588,6 @@ section {
 
 /* media queries  */
 @media (max-width:991px) {
-
-    html {
-        font-size: 55%;
-    }
 
     .header {
         padding: 1.5rem 2rem;
