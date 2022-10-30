@@ -5,9 +5,7 @@ The Whole website is fully functional and responsive.
 
 
 ## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [Learn-HTML](https://www.learn-html.org/)
  - [W3Schools](https://www.w3schools.com/)
 
 
